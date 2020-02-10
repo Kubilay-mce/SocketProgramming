@@ -1,0 +1,6 @@
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\odev\bin\Debug\odev.dll
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\odev\bin\Debug\odev.pdb
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\odev\obj\Debug\odev.csprojAssemblyReference.cache
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\odev\obj\Debug\odev.dll
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\odev\obj\Debug\odev.pdb

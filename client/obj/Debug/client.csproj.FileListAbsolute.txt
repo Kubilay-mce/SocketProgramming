@@ -1,0 +1,76 @@
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\bin\Debug\client.exe.config
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\bin\Debug\client.exe
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\bin\Debug\client.pdb
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\obj\Debug\client.exe
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\obj\Debug\client.pdb
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\bin\Debug\odev.dll
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\bin\Debug\veritabani.dll
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\bin\Debug\MySql.Data.dll
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\bin\Debug\Google.Protobuf.dll
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\bin\Debug\Renci.SshNet.dll
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\bin\Debug\odev.pdb
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\bin\Debug\veritabani.pdb
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\bin\Debug\MySql.Data.xml
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\bin\Debug\Google.Protobuf.xml
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\bin\Debug\Renci.SshNet.xml
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\adem\Desktop\projeler\proje7 Yasin (X)\odev\client\obj\Debug\client.csproj.CopyComplete
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\bin\Debug\client.exe.config
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\bin\Debug\client.exe
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\bin\Debug\client.pdb
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\bin\Debug\odev.dll
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\bin\Debug\veritabani.dll
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\bin\Debug\MySql.Data.dll
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\bin\Debug\Google.Protobuf.dll
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\bin\Debug\Renci.SshNet.dll
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\bin\Debug\odev.pdb
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\bin\Debug\veritabani.pdb
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\bin\Debug\MySql.Data.xml
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\bin\Debug\Google.Protobuf.xml
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\bin\Debug\Renci.SshNet.xml
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\obj\Debug\client.csproj.CopyComplete
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\obj\Debug\client.exe
+C:\Users\Tulpar\Desktop\Yeni klasör\proje7 Yasin\odev\client\obj\Debug\client.pdb
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\bin\Debug\client.exe.config
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\bin\Debug\client.exe
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\bin\Debug\client.pdb
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\bin\Debug\odev.dll
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\bin\Debug\veritabani.dll
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\bin\Debug\MySql.Data.dll
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\bin\Debug\Google.Protobuf.dll
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\bin\Debug\Renci.SshNet.dll
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\bin\Debug\odev.pdb
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\bin\Debug\veritabani.pdb
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\bin\Debug\MySql.Data.xml
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\bin\Debug\Google.Protobuf.xml
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\bin\Debug\Renci.SshNet.xml
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\obj\Debug\client.csproj.CopyComplete
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\obj\Debug\client.exe
+C:\Users\Tulpar\Desktop\Yeni klasör\SoketProgramlama\Kubilay\client\obj\Debug\client.pdb
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\bin\Debug\client.exe.config
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\bin\Debug\client.exe
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\bin\Debug\client.pdb
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\bin\Debug\odev.dll
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\bin\Debug\veritabani.dll
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\bin\Debug\MySql.Data.dll
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\bin\Debug\Google.Protobuf.dll
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\bin\Debug\Renci.SshNet.dll
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\bin\Debug\odev.pdb
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\bin\Debug\veritabani.pdb
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\bin\Debug\MySql.Data.xml
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\bin\Debug\Google.Protobuf.xml
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\bin\Debug\Renci.SshNet.xml
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\obj\Debug\client.csproj.CopyComplete
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\obj\Debug\client.exe
+C:\Users\Tulpar\Desktop\DataCom\Ödev\SoketProgramlama\Kubilay\client\obj\Debug\client.pdb
